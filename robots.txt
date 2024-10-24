@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://tufetewu.github.io/sitemap/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/aQN/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/tHf/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/FVE/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/taL/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/QFW/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/vmo/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/GxO/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/Raf/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/syW/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/cyN/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/evk/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/udg/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/wRa/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/GuR/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/ypf/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/UnT/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/cwY/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/Itl/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/rMv/sitemap_index.tufetewu
+Sitemap: https://tufetewu.github.io/eDa/sitemap_index.tufetewu
